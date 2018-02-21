@@ -1,6 +1,6 @@
 {
     "name": "platooning",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "A sample exhibit incluing fees for a truck platooning contract.",
     "engines": {
         "cicero": "^0.2.28"
