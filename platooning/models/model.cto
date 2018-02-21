@@ -136,7 +136,7 @@ transaction FeeCalculations {
 /**
  * The template model
  */
-@AccordTemplateModel("platooning-ride")
+@AccordTemplateModel("platooning")
 concept TemplateModel {
   o Double leaderFeePerKm
   o Double highAutomationFeePerKm

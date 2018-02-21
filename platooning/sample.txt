@@ -7,4 +7,4 @@ A.1 For each kilometer that a truck is the leading truck of a platoon the custom
 
 A.2 For each kilometer that a truck is a truck platoon member, the customer will be invoiced 0.6 EUR by the provider.
 
-A.3 Contract cancelation will be invoiced 5.00 EUR by the provider.
+A.3 Contract cancelation will be invoiced 15.00 EUR by the provider.
